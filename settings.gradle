@@ -1,0 +1,2 @@
+rootProject.name='Robot Focus and Android Lifecycle'
+include ':app'
